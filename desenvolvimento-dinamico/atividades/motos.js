@@ -1,0 +1,1 @@
+var motos = nem, Array, [];
